@@ -88,9 +88,11 @@
         this.scroll && this.scroll.refresh()
       },
       scrollTo(){
+        //用apply 只是为了外面参数通过arguments 传入进来
         this.scroll && this.scroll.scrollTo.apply(this.scroll, arguments)
       },
       scrollToElement(){
+        //用apply 只是为了外面参数通过arguments 传入进来
         this.scroll && this.scroll.scrollToElement.apply(this.scroll, arguments)
       }
     },
