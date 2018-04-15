@@ -1,4 +1,4 @@
-# myMusic
+# myMusic(慕课网实战课程)
 
 * vue2.x全家桶(包括vuex,vue-router)
 * Css框架采用stylus
