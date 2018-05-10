@@ -18,11 +18,11 @@
 
 
 <div align="center">
-<img src="https://github.com/QinZhen001/react-job/blob/master/img/first-page.jpg" height="450" width="270" >
+<img src="https://github.com/QinZhen001/myMusic/blob/master/img/home-page.png" height="450" width="270" >
 
-<img src="https://github.com/QinZhen001/react-job/blob/master/img/home-page.png" height="450" width="270" >
+<img src="https://github.com/QinZhen001/myMusic/blob/master/img/singer-page.png" height="450" width="270" >
 
-<img src="https://github.com/QinZhen001/react-job/blob/master/img/chat-page.png" height="450" width="270" >
+<img src="https://github.com/QinZhen001/myMusic/blob/master/img/music-page.png" height="450" width="270" >
 
 </div>
 
