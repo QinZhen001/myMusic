@@ -1,4 +1,7 @@
 # myMusic(慕课网实战课程)
+演示地址:[http://ustbhuangyi.com/music/#/recommend](http://ustbhuangyi.com/music/#/recommend)
+
+
 
 * vue2.x全家桶(包括vuex,vue-router)
 * Css框架采用stylus
@@ -11,8 +14,18 @@
 
 
 
-演示地址:
-http://ustbhuangyi.com/music/#/recommend
+
+
+
+<div align="center">
+<img src="https://github.com/QinZhen001/react-job/blob/master/img/first-page.jpg" height="450" width="270" >
+
+<img src="https://github.com/QinZhen001/react-job/blob/master/img/home-page.png" height="450" width="270" >
+
+<img src="https://github.com/QinZhen001/react-job/blob/master/img/chat-page.png" height="450" width="270" >
+
+</div>
+
 
 
 
